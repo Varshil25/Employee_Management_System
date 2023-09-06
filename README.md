@@ -26,6 +26,7 @@ H) Creating Validation of Employee data using RegEX
 
 I) Hibernate :- Add Information, Display Data, update information, detele data and Exit Application
 
+
  Output:
 
 ![Screenshot 2023-09-03 215701](https://github.com/Varshil25/Employee_Management_System/assets/130171937/a4cc19da-7612-440d-9242-82ee595dd231)
